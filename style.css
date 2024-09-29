@@ -18,6 +18,8 @@ margin-bottom: 100px;
 border-radius: 5px;
 text-align: center;
 color: white;
+height: 80px;
+width: 300px;
 }
 .input-box {
 display: flex;
@@ -45,17 +47,20 @@ border-radius: 5px;
 display: flex;
 justify-content: space-around;
 margin-top: 30px;
+margin-left: -48px;
 }
 .result div {
 background-color: #111;
 padding: 20px;
-margin-left: 20px;
+margin-top: 20px;
+margin-left: 30px;
 border-radius: 5px;
 width: 80px;
 text-align: center;
-height: 80px;
+height: 70px;
 }
 .result div p {
 font-size: 24px;
-margin-bottom: 5px;
+margin-bottom: -5px;
+padding-left: -5px;
 }
