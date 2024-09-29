@@ -12,8 +12,9 @@ align-items: center;
 height: 100vh;
 }
 .container {
-background-color: #070707;
+background-color: #111111;
 padding: 20px;
+margin-bottom: 100px;
 border-radius: 5px;
 text-align: center;
 color: white;
