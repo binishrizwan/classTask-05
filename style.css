@@ -14,7 +14,7 @@ height: 100vh;
 .container {
 background-color: #070707;
 padding: 20px;
-
+border-radius: 5px;
 text-align: center;
 color: white;
 }
@@ -42,21 +42,18 @@ border-radius: 5px;
 .result {
 display: flex;
 justify-content: space-around;
-margin-top: 20px;
+margin-top: 30px;
 }
 .result div {
 background-color: #111;
 padding: 20px;
 margin-left: 20px;
 border-radius: 5px;
-width: 100px;
+width: 80px;
 text-align: center;
+height: 80px;
 }
 .result div p {
 font-size: 24px;
 margin-bottom: 5px;
-}
-.result div span {
-font-size: 14px;
-color: #999;
 }
